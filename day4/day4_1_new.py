@@ -1,4 +1,4 @@
-file = open("test_in.txt")
+file = open("day4.txt")
 input = file.read().splitlines()
 input = [str(i) for i in input]
 file.close()
